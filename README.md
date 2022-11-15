@@ -13,7 +13,7 @@ Discord tool to nuke servers through the use of a bot. Developed in Python using
 - [ ] - [Multi Language](https://github.com/itsmat/DiscordNukerTool) - Multi Language Tool.
 
 ## ScreenShot
-![home.png](https://cdn.discordapp.com/attachments/1027459607456657410/1027608832077217882/screenshot.PNG?size=4096)
+![home.png](https://cdn.discordapp.com/attachments/1040683904115425390/1042185914329350145/image.png)
 
 ## Installation guide
 
